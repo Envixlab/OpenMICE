@@ -7,18 +7,19 @@
  
 ## OpenMice
 
-By Paniccia C, Di Febbraro M, Delucchi L, Oliveto R, Marchetti M, and Loy A. 2018. Ecology
+By Paniccia, C., M. Di Febbraro, L. Delucchi, R. Oliveto, M. Marchetti, and A. Loy. 2018. Ecology
 
 30 July 2018
 
 Provided in support of the Data-paper:
 
 >OpenMICE: an open spatial and temporal dataset of small mammals in South-Central Italy based on owl pellet data 
-by Paniccia C, Di Febbraro M, Delucchi L, Oliveto R, Marchetti M, and Loy A
+by Paniccia, C., M. Di Febbraro, L. Delucchi, R. Oliveto, M. Marchetti, and A. Loy. 2018. 
 
 
 We would appreciate that researchers cite this paper if using all or part of the datasets. We also request that researchers and teachers inform us of how they are using the data. 
 Correspondence and requests for materials should be addressed to Chiara Paniccia (email: c.paniccia@unimol.studenti.it).
+
 
 You can download our dataset in SQLite format!
 ###
