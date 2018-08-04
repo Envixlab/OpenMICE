@@ -22,6 +22,9 @@ Correspondence and requests for materials should be addressed to Chiara Paniccia
 
 You can download our dataset in SQLite format!
 
+I want to read/cite the preprint describing OpenMICE. →
+I want to reference the SQLite version of OpenMICE. →  Please also cite our preprint.
+
 ## Description
 
 OpenMice is the first standardized and accessible georeferenced database of small mammal occurrences, abundances and functional traits in South-Central Italy.
