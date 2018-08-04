@@ -17,13 +17,15 @@ Provided in support of the Data-paper:
 by Paniccia, C., M. Di Febbraro, L. Delucchi, R. Oliveto, M. Marchetti, and A. Loy. 
 
 
+
 We would appreciate that researchers cite this paper if using all or part of the datasets. We also request that researchers and teachers inform us of how they are using the data. 
 Correspondence and requests for materials should be addressed to Chiara Paniccia (email: c.paniccia@unimol.studenti.it).
 
 
-You can download our dataset in SQLite format!
-###
 
+You can download our dataset in SQLite format!
+
+###
 - I want to read/cite the preprint describing OpenMICE.→
 - I want to reference the SQLite version of OpenMICE.→ Please also cite our preprint.
 
