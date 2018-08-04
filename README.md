@@ -14,7 +14,7 @@ By Paniccia, C., M. Di Febbraro, L. Delucchi, R. Oliveto, M. Marchetti, and A. L
 Provided in support of the Data-paper:
 
 >OpenMICE: an open spatial and temporal dataset of small mammals in South-Central Italy based on owl pellet data 
-by Paniccia, C., M. Di Febbraro, L. Delucchi, R. Oliveto, M. Marchetti, and A. Loy. 2018. 
+by Paniccia, C., M. Di Febbraro, L. Delucchi, R. Oliveto, M. Marchetti, and A. Loy. 
 
 
 We would appreciate that researchers cite this paper if using all or part of the datasets. We also request that researchers and teachers inform us of how they are using the data. 
