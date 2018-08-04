@@ -7,7 +7,7 @@
  
 ## OpenMice
 
-By Paniccia, C., M. Di Febbraro, L. Delucchi, R. Oliveto, M. Marchetti, and A. Loy. 2018. Ecology
+By Paniccia, C., M. Di Febbraro, L. Delucchi, R. Oliveto, M. Marchetti, and A. Loy. 2018. Ecology.
 
 30 July 2018
 
