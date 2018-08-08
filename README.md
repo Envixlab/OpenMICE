@@ -39,7 +39,7 @@ We stored data into a relational database, i.e. a set of tables related each oth
 
 
 
-![](https://github.com/Envixlab/OpenMICE/blob/master/OpenMICE_structure.png)
+![]()
 
 **Structure of the relational OpenMICE database. A primary key (key icon) uniquely identifies each record (row) in a specific table, and one or more attributes can be associated with each primary key. A foreign key links to a primary key in another table and is used to create relationships between tables. Relationships among tables reduce redundancy and guarantee data consistency.**
 
