@@ -38,7 +38,6 @@ Small mammal occurrences derived from owl pellets were obtained from different s
 We stored data into a relational database, i.e. a set of tables related each other: OpenMice was designed by normalization rules to minimize redundancy and dependency and to isolate data. This means that design changes (e.g. modifications of a field) can be made in just one table and then be automatically propagated throughout the database. Given the long-term support for data storage, new information data can be added and the database can be expanded to include other geographical contexts.
 
 
-
 ![](https://github.com/Envixlab/OpenMICE/blob/master/OpenMICE_schema.jpg)
 
 
