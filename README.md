@@ -27,7 +27,7 @@ You can download our dataset in SQLite format!
 
 ###
 - I want to read/cite the preprint describing OpenMICE.→
-- I want to reference the SQLite version of OpenMICE.→ DOI:10.5281/zenodo.1342403 - Please also cite our preprint.
+- I want to reference the SQLite version of OpenMICE.→ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1342403.svg)](https://doi.org/10.5281/zenodo.1342403) - Please also cite our preprint.
 
 ## Description
 
