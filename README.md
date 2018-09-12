@@ -48,7 +48,7 @@ We stored data into a relational database, i.e. a set of tables related each oth
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Contact person
-Chiara Paniccia
+Chiara Paniccia - 
 EnvixLab, Dipartimento Bioscienze e Territorio, Università degli Studi del Molise, Contrada Fonte Lappone, I86090 Pesche, Italy
 Email: c.paniccia@unimol.studenti.it
 Email: chiara.paniccia12@gmail.com
