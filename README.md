@@ -13,7 +13,7 @@ By Paniccia, C., M. Di Febbraro, L. Delucchi, R. Oliveto, M. Marchetti, and A. L
 
 Provided in support of the Data-paper:
 
->OpenMICE: an open spatial and temporal dataset of small mammals in South-Central Italy based on owl pellet data 
+>OpenMICE: an open spatial and temporal data set of small mammals in south-central Italy based on owl pellet data 
 by Paniccia, C., M. Di Febbraro, L. Delucchi, R. Oliveto, M. Marchetti, and A. Loy. 2018. Ecology.
 
 
@@ -31,7 +31,7 @@ You can download our dataset in SQLite format!
 
 ## Description
 
-OpenMice is the first standardized and accessible georeferenced database of small mammal occurrences, abundances and functional traits in South-Central Italy.
+OpenMice is the first standardized and accessible georeferenced database of small mammal occurrences, abundances, and functional traits in south-central Italy.
 
 Small mammal occurrences derived from owl pellets were obtained from different sources, including original field surveys, publications, grey literature, existing databases and museum collections. We first performed a data-gathering and then georeferenced available sites from five owl species occurring in Italy (i.e. *Asio otus*, *Athene noctua*, *Bubo bubo*, *Tyto alba*, *Strix aluco*). Additionally, for each small mammal species, with an exhaustive literature review, we recorded abundance at each site and some functional traits such as body mass, trophic level, litter size, prevalent habit etc…
 
